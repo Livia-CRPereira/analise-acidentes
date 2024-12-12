@@ -28,5 +28,6 @@ O objetivo desse projeto foi apresentar uma análise detalhada dos acidentes pel
 
 | [<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br><sub>Lívia Caroline</sub>](https://github.com/livinha11) |
 | :---: |
+
 | [Gabrielly Xavier](https://github.com/gabyxsantos) |
 | :---: |
