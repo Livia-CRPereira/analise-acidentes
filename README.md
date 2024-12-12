@@ -24,9 +24,9 @@ O objetivo desse projeto foi apresentar uma análise detalhada dos acidentes pel
 - `Pandas`
 - `BabyPandas`
 
-# :woman: Autores
+# 👭 Autoria
 
-| [<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br><sub>Lívia Caroline</sub>](https://github.com/livinha11) |
+| [Lívia Caroline](https://github.com/livinha11) |
 | :---: |
 
 | [Gabrielly Xavier](https://github.com/gabyxsantos) |
