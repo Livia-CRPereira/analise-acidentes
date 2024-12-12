@@ -1,7 +1,7 @@
 <h1 align="center"> 🌇 Análise de acidentes por Belo Horizonte 🌇</h1>
 
  
- <p>Esse repositório possui um notebook criado por mim e Gabrielly Xavier contendo uma análise simples, porém detalhada, dos índices de acidentes na cidade de Belo Horizonte a partir de dados resgatados da BHTrans. Esperamos que gostem ❤️</p>
+ <p>Esse repositório possui um notebook contendo uma análise simples, porém detalhada, dos índices de acidentes na cidade de Belo Horizonte a partir de dados resgatados da BHTrans. Esperamos que gostem ❤️</p>
  <p>Durante o projeto, nos aprofundamos em conhecimentos das bibliotacas NumPy e BabyPandas, além do funcionamento de ferramentas capazes de gerar notebooks python.</p>
  
  
@@ -27,4 +27,6 @@ O objetivo desse projeto foi apresentar uma análise detalhada dos acidentes pel
 # :woman: Autores
 
 | [<img src="https://i.imgur.com/OO9DSbF.jpg" width=115><br><sub>Lívia Caroline</sub>](https://github.com/livinha11) |
+| :---: |
+| [Gabrielly Xavier](https://github.com/gabyxsantos) |
 | :---: |
